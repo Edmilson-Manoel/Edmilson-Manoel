@@ -1,12 +1,12 @@
 Olá
 
 
-* 🖥️ Cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Guarulhos.
+* 🖥️ Cursando Análise e Desenvolvimento de Sistemas.
 * 🦾 Formado em Mecatrônica.
 * 💻 Formado em Técnico de Hardware e redes.
 * 💬 Falante de inglês nivel avançado.
 * 💬 Aprendendo francês.
-* 🏡 Sou Brasileiro, moro em Guarulhos-SP.
+* 🏡 Sou Brasileiro, moro em SP.
 
 ##
 
